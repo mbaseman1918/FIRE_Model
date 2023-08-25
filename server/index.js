@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const express = require("express");
 const path = require("path");
-const controllers = require("./controllers/firecontrollers.js");
+// const controllers = require("./controllers/firecontrollers.js");
 // const logger = require("./middleware/logger.js");
 // const authChecker = require("./middleware/authChecker.js");
 
@@ -16,8 +16,8 @@ app.use(express.urlencoded());
 // TODO: Set up static service of assets
 
 // TODO: Define routes
-app.post('/users', controllers.addUser)
-app.get('/users', controllers.getUser)
+// app.post('/users', controllers.addUser)
+// app.get('/users', controllers.getUser)
 
 const PORT = process.env.PORT || 3000;
 
