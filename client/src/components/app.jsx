@@ -6,6 +6,7 @@ const App = () => {
 // Read Material UI docs
 // Make login/registration form
 // Make entry form for income, expenses, inflation, return on investments, initial savings information
+// Include graphs
   return (
     <div>Hello World!</div>
   )
