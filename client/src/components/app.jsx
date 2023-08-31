@@ -7,6 +7,7 @@ const App = () => {
 // Make login/registration form
 // Make entry form for income, expenses, inflation, return on investments, initial savings information
 // Include graphs
+// Make it look nice
   return (
     <div>Hello World!</div>
   )
