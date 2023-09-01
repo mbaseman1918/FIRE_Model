@@ -8,6 +8,7 @@ const App = () => {
 // Make entry form for income, expenses, inflation, return on investments, initial savings information
 // Include graphs
 // Make it look nice
+// Plan out the schedule for getting this done
   return (
     <div>Hello World!</div>
   )
